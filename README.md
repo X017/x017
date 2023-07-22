@@ -1,8 +1,8 @@
-<h1 align="center">i'm Parsa</h1>
+
 <h3 align="center">i like to program things</h3>
 
 - 🌱 I’m currently learning **FastAPI**
-
+- 
 
 <p align="left">
 </p>
