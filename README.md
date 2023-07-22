@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **FastAPI**
 - Contact me at Telegram: @x017c
-- 
 
 <p align="left">
 </p>
