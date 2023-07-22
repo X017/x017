@@ -1,5 +1,5 @@
 
-<h3 align="center">i like to program things</h3>
+<h3 align="center">hello</h3>
 
 - 🌱 I’m currently learning **FastAPI**
 - Contact me at Telegram: @x017c
