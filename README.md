@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-- 🌱 I’m currently learning **FastAPI**
 - I'm Trying to land a job 
 - if you have job for me Contact me at 
 
