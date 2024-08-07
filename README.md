@@ -4,5 +4,6 @@
 - Welcome to my github profile 
 - My name is parsa(x017)
 - I work on my projects here
-- i like to work on backend
+- i like to work on backend projects mostly api's
+- right now im making a music player 
 
